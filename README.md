@@ -18,7 +18,7 @@
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/yididya-samuel/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/yididya-samuel/#gh-dark-mode-only)
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 [![website](./img/medium-light5.svg)](https://medium.com/@yidisam18#gh-light-mode-only)
 [![website](./img/medium-light5.svg)](https://medium.com/@yidisam18#gh-dark-mode-only)
 <!-- [![website](./img/medium-dark.svg)](https://medium.com/@yidisam18#gh-dark-mode-only) -->
