@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://jedisam.github.io/)
+[![website](./img/globe-light.svg)](https://jedisam.github.io/#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://jedisam.github.io/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/Yididya_Samuel#gh-light-mode-only)
