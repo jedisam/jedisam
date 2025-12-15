@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2022 Goals: Get more into open source and contribute to the community
 - ⚡ Fun fact: I love to play guitar 🎸
-
+<!--
 ### Connect with me:
 
 [![website](./img/globe-light.svg)](https://jedisam.github.io/#gh-light-mode-only)
@@ -21,7 +21,9 @@
 &nbsp;&nbsp;&nbsp;
 [![website](./img/medium-light5.svg)](https://medium.com/@yidisam18#gh-light-mode-only)
 [![website](./img/medium-light5.svg)](https://medium.com/@yidisam18#gh-dark-mode-only)
-<!-- [![website](./img/medium-dark.svg)](https://medium.com/@yidisam18#gh-dark-mode-only) -->
+<!-- [![website](./img/medium-dark.svg)](https://medium.com/@yidisam18#gh-dark-mode-only) 
+
+-->
 
 
 <details>
