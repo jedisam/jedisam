@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning Data Engineering best practices & web3
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2022 Goals: Get more into open source and contribute to the community
-- ⚡ Fun fact: I love to play guitar 🎸
 <!--
 ### Connect with me:
 
